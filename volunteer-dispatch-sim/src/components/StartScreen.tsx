@@ -6,7 +6,7 @@ interface StartScreenProps {
 
 const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
     return (
-        <div className="fixed inset-0 bg-black bg-opacity-70 backdrop-blur-sm flex items-center justify-center z-50">
+        <div className="fixed inset-0 bg-black bg-opacity-70 backdrop-blur-xs flex items-center justify-center z-50">
             <div className="bg-white p-8 rounded-2xl shadow-xl w-11/12 max-w-lg text-center">
                 <h1 className="text-3xl font-bold mb-4">Volunteer Dispatch Simulator</h1>
                 <p className="text-lg mb-6"> Welcome! Your goal is to respond to opportunities in different countries before time runs out. 

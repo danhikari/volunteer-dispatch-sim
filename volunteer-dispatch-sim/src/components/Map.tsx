@@ -25,7 +25,7 @@ const Map: React.FC<MapProps> = ({ countries, onCountryClick }) => {
     return (
     <div className="relative w-full h-full">
         {tooltipContent && (
-        <div className="absolute top-0 left-0 bg-white p-1 rounded shadow text-sm pointer-events-none" style={{ transform: "translate(10px, 10px)" }}>
+        <div className="absolute top-0 left-0 bg-white p-1 rounded-sm shadow-sm text-sm pointer-events-none" style={{ transform: "translate(10px, 10px)" }}>
             {tooltipContent}
         </div>
         )}

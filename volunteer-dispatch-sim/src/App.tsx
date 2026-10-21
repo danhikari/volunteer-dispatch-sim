@@ -280,7 +280,7 @@ function App() {
     </div>
 
     {/* Top-left score bar */}
-    <div className="fixed top-2 left-2 z-[200] flex items-center space-x-2 bg-white/80 px-2 py-1 rounded shadow">
+    <div className="fixed top-2 left-2 z-200 flex items-center space-x-2 bg-white/80 px-2 py-1 rounded-sm shadow-sm">
       <span className="font-bold text-sm">Score: {score}</span>
       <ScoreBar score={score} />
     </div>
@@ -315,7 +315,7 @@ function App() {
       )}
 
       {/* Dashboard */}
-      <div className="h-[200px] border-t border-black/40 relative z-[100]">
+      <div className="h-[200px] border-t border-black/40 relative z-100">
         <VolunteerDashboard
           time={time}
           isSelecting={isSelectingVolunteer}

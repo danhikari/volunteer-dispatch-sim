@@ -58,7 +58,7 @@ export function VolunteerCard({
     return (
         <div
             className={`
-                w-44 select-none overflow-hidden rounded-xl border bg-white shadow-sm transition-all duration-300
+                w-44 select-none overflow-hidden rounded-xl border bg-white shadow-xs transition-all duration-300
                 ${isSelecting ? "ring-4 ring-yellow-400 animate-pulse" : ""}
                 ${isSelected ? "ring-4 ring-emerald-500" : ""}
             `}
@@ -129,7 +129,7 @@ export function VolunteerCard({
             {isSelecting && isSelected && (
                 <div className="px-3 pb-3">
                     <button
-                        className="w-full rounded bg-emerald-600 py-1 text-sm font-semibold text-white hover:bg-emerald-700"
+                        className="w-full rounded-sm bg-emerald-600 py-1 text-sm font-semibold text-white hover:bg-emerald-700"
                         onClick={(e) => {
                             e.stopPropagation();
                             onAssignVolunteer?.(volunteer.id);
