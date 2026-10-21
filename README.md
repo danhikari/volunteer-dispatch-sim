@@ -1,5 +1,5 @@
 # Go Volunteer (Volunteer-Dispatch-Simulator)
-<img width="1000" height="1000" alt="go-volunteer-logo" src="https://github.com/user-attachments/assets/f22260f9-1a69-41eb-872f-8a1f642d394b" />
+<img width="100%" height="auto" alt="go-volunteer-logo" src="https://github.com/user-attachments/assets/f22260f9-1a69-41eb-872f-8a1f642d394b" />
 
 
 In this game, you step into the role of an Exchange Manager:
@@ -37,15 +37,15 @@ There's also a website available!
 * TypeScript 5.9.3
 * TailWind (CSS Framework) 3.4.4
 
-<img width="1920" height="885" alt="image" src="https://github.com/user-attachments/assets/8f014b64-d688-4381-bf80-35c3a0bd1b02" />
+<img width="100%" height=auto alt="tutorial" src="https://github.com/user-attachments/assets/8f014b64-d688-4381-bf80-35c3a0bd1b02" />
 
-<img width="3200" height="1475" alt="image" src="https://github.com/user-attachments/assets/b1a44fde-d4a3-4abf-a72e-7511e37540bf" />
+<img width="100%" height= auto alt="exchange information" src="https://github.com/user-attachments/assets/b1a44fde-d4a3-4abf-a72e-7511e37540bf" />
 
-<img width="1877" height="910" alt="all-volunteers" src="https://github.com/user-attachments/assets/bb32e962-1e05-4f9e-a760-ae994b7a1a18" />
+<img width="100%" height=auto alt="all-volunteers" src="https://github.com/user-attachments/assets/bb32e962-1e05-4f9e-a760-ae994b7a1a18" />
 
-<img width="1877" height="915" alt="all-volunteers2" src="https://github.com/user-attachments/assets/32d589aa-84db-4ca5-9f13-85d3b8b1cf87" />
+<img width="100%" height=auto alt="completed exchange" src="https://github.com/user-attachments/assets/32d589aa-84db-4ca5-9f13-85d3b8b1cf87" />
 
-<img width="3200" height="1475" alt="image" src="https://github.com/user-attachments/assets/580e82d8-ed9c-4836-8a22-47c0d136f616" />
+<img width="100%" height=auto alt="finished game" src="https://github.com/user-attachments/assets/580e82d8-ed9c-4836-8a22-47c0d136f616" />
 
 
 
