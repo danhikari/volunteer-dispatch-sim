@@ -19,6 +19,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
                     there’s a new opportunity. Click them to take action and earn points.
                 </p>
 
+
                 <p className="text-lg leading-relaxed mb-10">
                     Help volunteers achieve the United Nations' Sustainable Development Goals
                     11 (Sustainable Cities and Communities) and 16 (Peace, Justice,
